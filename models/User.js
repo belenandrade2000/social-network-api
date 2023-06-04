@@ -1,5 +1,5 @@
 const { Schema, model } = require('mongoose');
-// add thought
+
 
 // Schema to create Student model
 const userSchema = new Schema(
